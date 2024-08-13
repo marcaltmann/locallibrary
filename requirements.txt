@@ -1,2 +1,2 @@
-black==24.4.2
-Django==5.0.7
+black==24.8.0
+Django==5.1
